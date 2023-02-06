@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/libian19/Contador/static/css/main.4425fa9b.css",
-    "main.js": "/libian19/Contador/static/js/main.dcee044c.js",
-    "static/media/fcc_primary.svg": "/libian19/Contador/static/media/fcc_primary.2847bc12544317f79647dc18d67a0930.svg",
-    "index.html": "/libian19/Contador/index.html",
-    "main.4425fa9b.css.map": "/libian19/Contador/static/css/main.4425fa9b.css.map",
-    "main.dcee044c.js.map": "/libian19/Contador/static/js/main.dcee044c.js.map"
+    "main.css": "/Contador/static/css/main.4425fa9b.css",
+    "main.js": "/Contador/static/js/main.45d8c2c3.js",
+    "static/media/fcc_primary.svg": "/Contador/static/media/fcc_primary.2847bc12544317f79647dc18d67a0930.svg",
+    "index.html": "/Contador/index.html",
+    "main.4425fa9b.css.map": "/Contador/static/css/main.4425fa9b.css.map",
+    "main.45d8c2c3.js.map": "/Contador/static/js/main.45d8c2c3.js.map"
   },
   "entrypoints": [
     "static/css/main.4425fa9b.css",
-    "static/js/main.dcee044c.js"
+    "static/js/main.45d8c2c3.js"
   ]
 }
